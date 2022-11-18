@@ -1,0 +1,8 @@
+### Get all products from shopping card
+GET http://localhost:8080/store/order/get
+
+### Add single prodict id to shopping card
+POST http://localhost:8080/store/order/add?id=10
+
+### Add several product ids to shopping card
+POST http://localhost:8080/store/order/add?id=20&id=30&id=40

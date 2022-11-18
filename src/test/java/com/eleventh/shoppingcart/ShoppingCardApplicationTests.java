@@ -1,4 +1,4 @@
-package com.eleventh.shoppingcard;
+package com.eleventh.shoppingcart;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
