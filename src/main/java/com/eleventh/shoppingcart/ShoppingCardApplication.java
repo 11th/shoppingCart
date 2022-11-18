@@ -1,4 +1,4 @@
-package com.eleventh.shoppingcard;
+package com.eleventh.shoppingcart;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
